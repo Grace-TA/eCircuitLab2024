@@ -42,3 +42,6 @@ Horace @ Hsinchu
 TA Grace: https://github.com/Grace-TA
 
 A Reminder: "請在2024.06.25(二)之前,用email寄到 ta2021.vnu@gmail.com (小小的提醒: 此任務無法補交喔, 要記得在時間之內完成呦!)"
+
+![image](https://github.com/Grace-TA/eCircuitLab2024/assets/89304181/b38340ba-0c3a-4977-94fa-f810a112bf0d)
+
